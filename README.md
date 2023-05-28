@@ -1,6 +1,6 @@
 # EX-8 APPLICATION USING TCP SOCKETS - CREATING ECHO CLIENT-SERVER
 
-DATE :
+### DATE : 26-04-2023
 
 ## AIM :
 To write a python program for creating Echo Client and Echo Server using TCP
@@ -49,9 +49,9 @@ while True:
 
 ## OUTPUT :
 ### Client
-![](8c.png)
+![](1.png)
 ### Server
-![](8s.png)
+![](2.png)
 
 
 
